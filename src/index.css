@@ -1,0 +1,12 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ring: 220 90% 56%;
+}
+
+.input-wrapper {
+  @apply w-full;
+}
